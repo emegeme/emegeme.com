@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>emegeme</title>
+	<founding-date>February, 2012</founding-date>
+	<website>http://www.emegeme.com/</website>
+	<based-in>Barcelona, Spain</based-in>
+	
+	<press-contact>info@emegeme.com</press-contact>
+	<phone>+34 670 01 28 26</phone><!--
+	<address>
+		<line>C/ Alcolea 115</line>
+		<line> Barcelona 08014</line>
+		<line>Spain</line>
+	</address>-->
+
+	<socials>
+		<social>
+			<name>@emegemegames</name>
+			<link>twitter.com/emegemegames</link>
+		</social>
+		<social>
+			<name>facebook.com/emegemegames</name>
+			<link>facebook.com/emegemegames</link>
+		</social><!--
+		<social>
+			<name>Skype</name>
+			<link>callto:MySkypeName</link>
+		</social>-->
+	</socials>
+
+	<description>	    Prepare your Mind for the latest Cards-based Mind-Training.    Try to find PAIRS and TRIOS or just try to Repeat a Cards Sequence in SIMON game.     Three funny Games to keep your Mind busy while contemplating an Awesome design...     Unlock and Collect the 64 exclusive vegan Cards!	</description>		
+	<histories>
+		<history>
+			<header>GAME FEATURES:</header>
+			<text>- 5 Game Modes</text>
+		</history>
+		<history>
+			<text>- 64 Levels to Play with Increasing Difficulty</text>
+		</history>        <history>			<text>- 64 Unique Hand-Drawn Cards to Unlock and Collect</text>		</history>        <history>			<text>- Awesome Design with Extreme Care for Detail</text>		</history>        <history>			<text>- Hours of Fun and Mind Training</text>		</history>        <history>			<text>- 8 Languages: English, Spanish, French, Italian, German, Russian, Japanese, Simplified Chinese</text>		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>FLIPS for PsVita PSM</name>
+			<youtube>___goqWDGC8</youtube>
+		</trailer><!--
+		<trailer>
+			<name>This one too</name>
+			<youtube>0CevOaYrYDA</youtube>
+			<vimeo>12536488</vimeo>
+		</trailer>-->
+	</trailers>
+	<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>-->
+	<!--
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>-->
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	<!--
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>-->
+	
+	<credits>
+		<credit>
+			<person>Ramón Santamaría</person>                        <website>https://www.linkedin.com/in/raysan/es</website>
+			<role>Games Developer</role>
+		</credit>
+		<credit>
+			<person>Sergio Martínez</person>
+			<website>https://es.linkedin.com/in/anidealgift</website>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Daniel Gómez</person>
+			<website>https://es.linkedin.com/pub/dani-gómez-haba/b9/a0b/b4b</website>
+			<role>Artist</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>info@emegeme.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>https://twitter.com/emegemegames</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>https://www.facebook.com/emegemegames</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>www.emegeme.com</link>
+		</contact>
+	</contacts>
+</game>
