@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'antipasto_regular';
-    src: url('common/font/antipasto_regular.eot');
-    src: url('common/font/antipasto_regular.eot?#iefix') format('embedded-opentype'),
-         url('common/font/antipasto_regular.woff') format('woff'),
-         url('common/font/antipasto_regular.ttf') format('truetype');
+    src: url('../common/font/antipasto_regular.eot');
+    src: url('../common/font/antipasto_regular.eot?#iefix') format('embedded-opentype'),
+         url('../common/font/antipasto_regular.woff') format('woff'),
+         url('../common/font/antipasto_regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -57,7 +57,7 @@ p{
 	height: 210px; 
 	position: relative;
 	top: 10px;
-	background-image: url(common/logo.png);
+	background-image: url(../common/logo.png);
 }
 
 /* GAMES SECTION STYLE */
@@ -76,7 +76,7 @@ p{
 	position: relative;
 	top: 0px;
 	left: 2px;
-    background-image: url(common/btn_game01.png);
+    background-image: url(../common/btn_game01.png);
 	background-position: 0 215px;
 	cursor: pointer;
 	z-index: 6;
@@ -89,7 +89,7 @@ p{
 	position: relative;
 	top: 0px;
 	left: 2px;
-    background-image: url(common/btn_game02.png);
+    background-image: url(../common/btn_game02.png);
 	background-position: 0 215px;
 	cursor: pointer;
 	z-index: 6;
@@ -102,7 +102,7 @@ p{
 	position: relative;
 	top: 0px;
 	left: 2px;
-    background-image: url(common/btn_game03.png);
+    background-image: url(../common/btn_game03.png);
 	background-position: 0 215px;
 	z-index: 6;
 }#game03:hover{ background-position: 0 0; }
@@ -114,7 +114,7 @@ p{
 	position: relative;
 	top: 0px;
 	left: 2px;
-    background-image: url(common/btn_game04.png);
+    background-image: url(../common/btn_game04.png);
 	background-position: 0 215px;
 	z-index: 6;
 }#game04:hover{ background-position: 0 0; }
@@ -126,7 +126,7 @@ p{
 	position: relative;
 	top: 0px;
 	left: 2px;
-    background-image: url(common/btn_game05.png);
+    background-image: url(../common/btn_game05.png);
 	background-position: 0 215px;
 	z-index: 6;
 }#game05:hover{ background-position: 0 0; }
@@ -138,7 +138,7 @@ p{
 	position: relative;
 	top: 0px;
 	left: 2px;
-    background-image: url(common/btn_game_null.png);
+    background-image: url(../common/btn_game_null.png);
 	background-position: 0 215px;
     cursor: default;
 	z-index: 6;
@@ -170,37 +170,37 @@ p{
     margin-top: 20px;
 }
 
-#tshirt00{ background-image: url(tshirts/tshirt00.png); cursor: default;
+#tshirt00{ background-image: url(../tshirts/tshirt00.png); cursor: default;
 }#tshirt00:hover{ background-position: 0 0; }
 
-#tshirt01 { background-image: url(tshirts/tshirt01.png);
+#tshirt01 { background-image: url(../tshirts/tshirt01.png);
 }#tshirt01:hover{ background-position: 0 0; }
 
-#tshirt02 { background-image: url(tshirts/tshirt02.png);
+#tshirt02 { background-image: url(../tshirts/tshirt02.png);
 }#tshirt02:hover{ background-position: 0 0; }
 
-#tshirt03 { background-image: url(tshirts/tshirt03.png);
+#tshirt03 { background-image: url(../tshirts/tshirt03.png);
 }#tshirt03:hover{ background-position: 0 0; }
 
-#tshirt04{ background-image: url(tshirts/tshirt04.png);
+#tshirt04{ background-image: url(../tshirts/tshirt04.png);
 }#tshirt04:hover{ background-position: 0 0; }
 
-#tshirt05{ background-image: url(tshirts/tshirt05.png);
+#tshirt05{ background-image: url(../tshirts/tshirt05.png);
 }#tshirt05:hover{ background-position: 0 0; }
 
-#tshirt06{ background-image: url(tshirts/tshirt06.png);
+#tshirt06{ background-image: url(../tshirts/tshirt06.png);
 }#tshirt06:hover{ background-position: 0 0; }
 
-#tshirt07{ background-image: url(tshirts/tshirt07.png);
+#tshirt07{ background-image: url(../tshirts/tshirt07.png);
 }#tshirt07:hover{ background-position: 0 0; }
 
-#tshirt08{ background-image: url(tshirts/tshirt08.png);
+#tshirt08{ background-image: url(../tshirts/tshirt08.png);
 }#tshirt08:hover{ background-position: 0 0; }
 
-#tshirt09{ background-image: url(tshirts/tshirt09.png);
+#tshirt09{ background-image: url(../tshirts/tshirt09.png);
 }#tshirt09:hover{ background-position: 0 0; }
 
-#tshirt10{ background-image: url(tshirts/tshirt10.png);
+#tshirt10{ background-image: url(../tshirts/tshirt10.png);
 }#tshirt10:hover{ background-position: 0 0; }
 /* -------------------------------------------- */
 
@@ -261,7 +261,7 @@ p{
 	position: relative;
 	top: 0px;
 	left: 2px;
-    background-image: url(common/btn_facebook.png);
+    background-image: url(../common/btn_facebook.png);
 	background-position: 0 50px;
 	cursor: pointer;
 	z-index: 6;
@@ -272,7 +272,7 @@ p{
 	height: 40px; 
 	position: relative;
 	margin-top: 20px;
-	background-image: url(common/copyright.png);
+	background-image: url(../common/copyright.png);
 	background-repeat: no-repeat;
 }
 
