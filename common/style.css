@@ -9,8 +9,8 @@
 }
 
 *{padding:0px; margin:0px; font-family: antipasto_regular,Verdana, Arial; -moz-font-smoothing: none;-webkit-font-smoothing: none; line-height:32px;}
-a{text-decoration: none; color:#AAAAAA;}
-a:hover{ color:black; }
+a{text-decoration: none; color:#ff1212;}
+a:hover{ color:#ff0036; }
 
 body {
   margin: 0 auto;
