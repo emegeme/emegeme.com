@@ -46,40 +46,40 @@ p{
 ::-webkit-scrollbar-thumb:horizontal { width: 50px; background-color: #ffa523; -webkit-border-radius: 3px;}
   
 #fulldata {
-	width: 650px;
-	height: 600px;
-	margin: 0 auto 0 auto;
-	float: none;
-	position: relative;
+    width: 650px;
+    height: 600px;
+    margin: 0 auto 0 auto;
+    float: none;
+    position: relative;
 }
 
 #title {
-	width: 650px;
-	height: 210px; 
-	position: relative;
-	top: 10px;
-	background-image: url(logo.png);
+    width: 650px;
+    height: 210px; 
+    position: relative;
+    top: 10px;
+    background-image: url(emegeme_logo.png);
 }
 
 /* GAMES SECTION STYLE */
 /* -------------------------------------------- */
 #games {
-	width: 650px;
-	height: 430px; 
-	position: relative;
-	top: 10px;
+    width: 650px;
+    height: 430px; 
+    position: relative;
+    top: 10px;
 }
 
 .cgame {
     width: 215px;
-	height: 215px;
-	float: left;
-	position: relative;
-	top: 0px;
-	left: 2px;
-	background-position: 0 215px;
-	cursor: pointer;
-	z-index: 6;
+    height: 215px;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: 2px;
+    background-position: 0 215px;
+    cursor: pointer;
+    z-index: 6;
 }.cgame:hover{ background-position: 0 0; }
  
 #game01 { background-image: url(btn_game01.png); }
@@ -93,24 +93,24 @@ p{
 /* TSHIRTS SECTION STYLE */
 /* -------------------------------------------- */
 #designs_container{
-	width: 650px;
-	height: 210px; 
-	position: relative;
-	top: 0px;
-	left: 22px;
-	overflow: visible;
+    width: 650px;
+    height: 210px; 
+    position: relative;
+    top: 0px;
+    left: 22px;
+    overflow: visible;
 }
 
 .box {
-	width: 80px;
-	height: 80px;
-	float: left;
-	position: relative;
-	top: 0px;
-	background-position: 0 -80px;
+    width: 80px;
+    height: 80px;
+    float: left;
+    position: relative;
+    top: 0px;
+    background-position: 0 -80px;
     background-repeat: no-repeat;
-	cursor: pointer;
-	z-index: 6;
+    cursor: pointer;
+    z-index: 6;
     margin-right: 23px;
     margin-top: 20px;
 }
@@ -150,10 +150,10 @@ p{
 /* -------------------------------------------- */
 
 #info {
-	height: 20px;
-	position: relative;
-	top: 0px;
-	cursor: pointer;
+    height: 20px;
+    position: relative;
+    top: 0px;
+    cursor: pointer;
     color: AAAAAA;
     margin-left: 20px;
 }
@@ -162,10 +162,10 @@ p{
 #wanttshirt_link { margin-left: 44px; }
 
 #down_container {
-	width: 650px;
-	height: 120px; 
-	position: relative;
-	top: 10px;
+    width: 650px;
+    height: 120px; 
+    position: relative;
+    top: 10px;
 }
 
 #contact {
@@ -186,45 +186,53 @@ p{
 }
 
 #twitter {
-	width: 50px;
-	height: 50px;
-	float: left;
-	position: relative;
-	top: 0px;
-	left: 2px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: 2px;
     background-image: url(btn_twitter.png);
-	background-position: 0 50px;
-	cursor: pointer;
-	z-index: 6;
+    background-position: 0 50px;
+    cursor: pointer;
+    z-index: 6;
     margin-right: 16px;
 }#twitter:hover{ background-position: 0 0; }
 
 #facebook {
-	width: 50px;
-	height: 50px;
-	float: left;
-	position: relative;
-	top: 0px;
-	left: 2px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: 2px;
     background-image: url(btn_facebook.png);
-	background-position: 0 50px;
-	cursor: pointer;
-	z-index: 6;
+    background-position: 0 50px;
+    cursor: pointer;
+    z-index: 6;
 }#facebook:hover{ background-position: 0 0; }
 
-#footer {
-	width: 650px;
-	height: 40px; 
-	position: relative;
-	margin-top: 20px;
-	background-image: url(copyright.png);
-	background-repeat: no-repeat;
+.footer { 
+    font-size: 16px; 
+    letter-spacing: 1px; 
+    width:650px; 
+    float:left; 
+    position:relative; 
+    border-top:1px solid #bfbfbf; 
+    text-align: right; 
+    height:40px; 
+    padding-top:10px; 
+}
+.footer p { 
+    font-size:12pt; 
+    color:#aaaaaa; 
+    margin-top:0px;
 }
 
 img.logo {
-	position: absolute;
-	left: 0;
-	top: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
     z-index: 0;
 }
 
