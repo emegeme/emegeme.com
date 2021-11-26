@@ -27,6 +27,7 @@ body {
 
 p{
   font-size: 18px;
+  letter-spacing: 2px;
   margin-left: 1em;
   margin-right: 1em;
   margin-top: 20px;
@@ -69,80 +70,24 @@ p{
 	top: 10px;
 }
 
-#game01 {
-	width: 215px;
+.cgame {
+    width: 215px;
 	height: 215px;
 	float: left;
 	position: relative;
 	top: 0px;
 	left: 2px;
-    background-image: url(btn_game01.png);
 	background-position: 0 215px;
 	cursor: pointer;
 	z-index: 6;
-}#game01:hover{ background-position: 0 0; }
-
-#game02 {
-	width: 215px;
-	height: 215px;
-	float: left;
-	position: relative;
-	top: 0px;
-	left: 2px;
-    background-image: url(btn_game02.png);
-	background-position: 0 215px;
-	cursor: pointer;
-	z-index: 6;
-}#game02:hover{ background-position: 0 0; }
-
-#game03 {
-	width: 215px;
-	height: 215px;
-	float: left;
-	position: relative;
-	top: 0px;
-	left: 2px;
-    background-image: url(../common/btn_game03.png);
-	background-position: 0 215px;
-	z-index: 6;
-}#game03:hover{ background-position: 0 0; }
-
-#game04 {
-	width: 215px;
-	height: 215px;
-	float: left;
-	position: relative;
-	top: 0px;
-	left: 2px;
-    background-image: url(btn_game04.png);
-	background-position: 0 215px;
-	z-index: 6;
-}#game04:hover{ background-position: 0 0; }
-
-#game05 {
-	width: 215px;
-	height: 215px;
-	float: left;
-	position: relative;
-	top: 0px;
-	left: 2px;
-    background-image: url(btn_game05.png);
-	background-position: 0 215px;
-	z-index: 6;
-}#game05:hover{ background-position: 0 0; }
-
-#game06 {
-	width: 215px;
-	height: 215px;
-	float: left;
-	position: relative;
-	top: 0px;
-	left: 2px;
-    background-image: url(btn_game_null.png);
-	background-position: 0 215px;
-    cursor: default;
-	z-index: 6;
-}#game06:hover{ }
+}.cgame:hover{ background-position: 0 0; }
+ 
+#game01 { background-image: url(btn_game01.png); }
+#game02 { background-image: url(btn_game02.png); }
+#game03 { background-image: url(btn_game03.png); }
+#game04 { background-image: url(btn_game04.png); }
+#game05 { background-image: url(btn_game05.png); }
+#game06 { background-image: url(btn_game06.png); }
 /* -------------------------------------------- */
 
 /* TSHIRTS SECTION STYLE */
