@@ -65,7 +65,7 @@ p{
 /* -------------------------------------------- */
 #games {
     width: 650px;
-    height: 430px; 
+    height: 645px; 
     position: relative;
     top: 10px;
 }
@@ -88,6 +88,9 @@ p{
 #game04 { background-image: url(btn_game04.png); }
 #game05 { background-image: url(btn_game05.png); }
 #game06 { background-image: url(btn_game06.png); }
+#game07 { background-image: url(btn_game07.png); }
+#game08 { background-image: url(btn_game08.png); }
+#game09 { background-image: url(btn_game09.png); }
 /* -------------------------------------------- */
 
 /* TSHIRTS SECTION STYLE */
